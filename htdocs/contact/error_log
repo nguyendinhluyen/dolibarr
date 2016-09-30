@@ -1,0 +1,2 @@
+[29-Feb-2016 23:18:07 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nanapet/public_html/dolibarr/htdocs/core/db/mysql.class.php on line 327
+[29-Feb-2016 23:41:34 Asia/Ho_Chi_Minh] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nanapet/public_html/dolibarr/htdocs/core/db/mysql.class.php on line 327

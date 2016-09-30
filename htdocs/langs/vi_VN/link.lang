@@ -1,0 +1,9 @@
+LinkANewFile=Đường dẫn tập tin mới 
+LinkedFiles=Đường dẫn tập tin 
+NoLinkFound=Không tìm thấy đường dẫn
+LinkComplete=Thiết lập đường dẫn thành công 
+ErrorFileNotLinked=The file could not be linked
+LinkRemoved=The link %s has been removed
+ErrorFailedToDeleteLink= Failed to remove link '<b>%s</b>'
+ErrorFailedToUpdateLink= Failed to update link '<b>%s</b>'
+URLToLink=Đường dẫn 
